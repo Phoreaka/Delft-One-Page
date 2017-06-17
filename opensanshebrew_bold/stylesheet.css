@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'opensanshebrew bold';
+	src: url('opensanshebrew-bold-webfont.eot');
+	src: url('opensanshebrew-bold-webfont.eot?#iefix') format('embedded-opentype'),
+		url('opensanshebrew-bold-webfont.woff') format('woff'),
+		url('opensanshebrew-bold-webfont.ttf') format('truetype'),
+		url('opensanshebrew-bold-webfont.svg') format('svg');
+}

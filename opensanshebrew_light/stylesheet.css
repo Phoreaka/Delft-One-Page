@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'opensanshebrew light';
+	src: url('opensanshebrew-light-webfont.eot');
+	src: url('opensanshebrew-light-webfont.eot?#iefix') format('embedded-opentype'),
+		url('opensanshebrew-light-webfont.woff') format('woff'),
+		url('opensanshebrew-light-webfont.ttf') format('truetype'),
+		url('opensanshebrew-light-webfont.svg') format('svg');
+}

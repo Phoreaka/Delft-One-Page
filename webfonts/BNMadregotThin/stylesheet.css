@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'BNMadregotThin';
+	src: url('BNMadregotThin.eot');
+	src: url('BNMadregotThin.eot?#iefix') format('embedded-opentype'),
+		url('BNMadregotThin.woff') format('woff'),
+		url('BNMadregotThin.ttf') format('truetype'),
+		url('BNMadregotThin.svg') format('svg');
+}
